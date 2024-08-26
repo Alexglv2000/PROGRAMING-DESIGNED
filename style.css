@@ -172,8 +172,8 @@ a {
   z-index: 0;
 }
 .loader span {
-  color: #000000;
-  text-shadow: 0 0 0 #070707;
+  color: #1177e3;
+  text-shadow: 0 0 0 #1177e3;
   -webkit-animation: loading 1s ease-in-out infinite alternate;
 }
 
